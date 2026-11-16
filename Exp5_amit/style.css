@@ -1,0 +1,35 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #e69d9d;
+    display: flex;
+    justify-content: center;
+    padding: auto;
+}
+
+.container{
+    background-color: #fff;
+    width: 350px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+input{
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 10px 0;
+    cursor: pointer;
+    background-color: beige;
+}
+
+p{
+    font-weight: bold;
+}
