@@ -1,0 +1,38 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(225, 207, 183);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    background-color: #fff;
+    padding: auto;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+input{
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button{
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    background-color: #578de4;
+    color: black;
+}
+
+h3{
+    margin-top: 20px;
+}
+
+button:hover{
+    background-color: blue;
+}
