@@ -1,5 +1,6 @@
 
 import { useState } from 'react';
+import './App.css';
 
 function Child({ Name, changeName }) {
   return (
